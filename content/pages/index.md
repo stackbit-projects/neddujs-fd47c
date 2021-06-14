@@ -41,11 +41,9 @@ sections:
             url: /features
             style: secondary
       - title: TASACIONES DE BIENES INMUEBLES
-        content: >+
-          Las tasaciones de inmuebles es realizada en todos los casos, de manera
-          individualizada, previo análisis de la documentación necesaria, con
-          visita técnica al inmueble y a su entorno.
-
+        content: >
+          Determinamos el valor de casas, terrenos de forma cuidada y
+          responsable logrando un servicio integral en menor tiempo posible.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
