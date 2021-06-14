@@ -28,11 +28,10 @@ sections:
     title: Nuestros servicios
     features:
       - title: TASACIONES DE MAQUINARIAS Y EQUIPOS
-        content: >+
+        content: >
           Las tasaciones es nuestro negocio. A diario, los Peritos Tasadores
-          (ingenieros y técnicos) de American Tasaciones realizan tasaciones que
-          son precisas, fiables y exhaustivas.
-
+          (ingenieros y técnicos) de TAM realizan tasaciones que son precisas,
+          fiables y exhaustivas.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
