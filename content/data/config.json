@@ -42,7 +42,8 @@
             }
         ],
         "has_social": true,
-        "social_links": []
+        "social_links": [],
+        "content": "TAM"
     },
     "domain": "https://neddujs-fd47c.netlify.app"
 }
