@@ -82,7 +82,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: TAM Tasaciones y Valuaciones
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
