@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Nuestros servicios
     features:
-      - title: TASACIONES VALUACIONES
+      - title: TASACIONES
         content: >+
           Las tasaciones es nuestro negocio. A diario, los Peritos Tasadores
           (ingenieros y técnicos) de American Tasaciones realizan tasaciones que
