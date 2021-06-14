@@ -53,10 +53,10 @@ sections:
             url: /features
             style: secondary
       - title: VALUACIONES IFRS-NIIF
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Componetización de edificios, muebles inventario de equipos , la
+          conciliación, y los estudios de NIIF-y los servicios relacionados con
+          la NIC  componetización.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
