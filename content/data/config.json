@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Servicios",
+                "label": "Inicio",
                 "url": "/features",
                 "style": "link"
             },
