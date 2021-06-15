@@ -8,7 +8,7 @@
             {
                 "label": "Inicio",
                 "url": "/",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Servicios",
