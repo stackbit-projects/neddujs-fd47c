@@ -45,7 +45,6 @@ sections:
       dando prioridad a sus necesidades y con la firme seguridad de lograr
       superar sus expectativas.
   - type: team_section
-    title: Our Team
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
