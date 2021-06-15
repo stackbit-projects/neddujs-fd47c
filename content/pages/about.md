@@ -50,7 +50,6 @@ sections:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
       - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
 seo:
   title: Who We Are
   description: This is the about us page
