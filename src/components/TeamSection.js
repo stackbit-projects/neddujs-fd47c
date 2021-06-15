@@ -41,7 +41,7 @@ export default class TeamSection extends React.Component {
         const team = _.get(section, 'team');
 
         return (
-            <section className="section section--team">
+            <section className="section section--team align-center">
                 {title && (
                     <div className="container container--md align-center">
                         <h2 className="section__title">{title}</h2>
