@@ -57,7 +57,7 @@ sections:
           Componetización de edificios, muebles inventario de equipos , la
           conciliación, y los estudios de NIIF-y los servicios relacionados con
           la NIC  componetización.
-        align: left
+        align: center
         image: /images/tasaciones-IFRS-NIIF.png
         image_alt: Feature 3 placeholder image
         image_position: right
