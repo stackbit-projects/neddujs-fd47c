@@ -33,7 +33,7 @@ sections:
           (ingenieros y técnicos) de TAM realizan tasaciones que son precisas,
           fiables y exhaustivas.
         align: left
-        image: /images/010.016-4.jpeg
+        image: /images/scientific-moon.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
