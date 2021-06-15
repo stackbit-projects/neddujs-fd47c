@@ -58,7 +58,7 @@ sections:
           conciliación, y los estudios de NIIF-y los servicios relacionados con
           la NIC  componetización.
         align: left
-        image: images/feature.svg
+        image: /images/tasaciones-IFRS-NIIF.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
