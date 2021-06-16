@@ -68,8 +68,13 @@ sections:
   - type: cta_section
     title: NORMATIVIDAD
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Nuestras valorizaciones se realizan de acuerdo a las normas establecidas
+      en el Reglamento Nacional de Tasaciones del Perú aprobado mediante
+      Resolución Ministerial Nº 172-2016-VIVIENDA del 19 de julio del 2016 y de
+      conformidad a la Resolución S.B.S. N° 11356-2008 para determinar el valor
+      comercial y de realización de los bienes inmuebles (terrenos, casas,
+      departamentos, oficinas, locales comerciales) y muebles (maquinaria,
+      vehículos, equipos de cómputo, muebles enseres, herramientas y otros)
     actions:
       - label: Learn More
         url: /features
