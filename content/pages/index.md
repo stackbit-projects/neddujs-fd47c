@@ -76,7 +76,7 @@ sections:
       departamentos, oficinas, locales comerciales) y muebles (maquinaria,
       vehículos, equipos de cómputo, muebles enseres, herramientas y otros)
     actions:
-      - label: Learn More
+      - label: Solicitar servicio
         url: /features
         style: primary
     has_background: true
