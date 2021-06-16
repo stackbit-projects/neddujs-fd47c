@@ -31,7 +31,7 @@ sections:
           - label: Solicitar servicio
             url: /style-guide
             style: primary
-      - title: Feature 3
+      - title: VALUACIONES I
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
