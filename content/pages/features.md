@@ -42,7 +42,7 @@ sections:
         image_position: right
         actions:
           - label: Solicitar servicio
-            url: /blog
+            url: /contact
             style: primary
 seo:
   title: Features
