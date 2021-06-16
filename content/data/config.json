@@ -40,7 +40,7 @@
         "social_links": [
             {
                 "label": "tam.tasaciones@gmail.com",
-                "url": "#",
+                "url": "mailto:",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
