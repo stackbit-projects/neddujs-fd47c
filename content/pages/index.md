@@ -63,7 +63,7 @@ sections:
         image_position: right
         actions:
           - label: Solicitar servicio
-            url: /features
+            url: /contact
             style: secondary
   - type: cta_section
     title: NORMATIVIDAD
