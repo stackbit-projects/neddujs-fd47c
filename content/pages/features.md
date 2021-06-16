@@ -24,7 +24,7 @@ sections:
           Determinamos el valor de casas, terrenos de forma cuidada y
           responsable logrando un servicio integral en menor tiempo posible.
         align: left
-        image: images/feature.svg
+        image: /images/inmuebles.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
