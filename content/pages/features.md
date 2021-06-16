@@ -20,10 +20,9 @@ sections:
             url: /about
             style: primary
       - title: TASACIONES DE BIENES INMUEBLES
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Determinamos el valor de casas, terrenos de forma cuidada y
+          responsable logrando un servicio integral en menor tiempo posible.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
