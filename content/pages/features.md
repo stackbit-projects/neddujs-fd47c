@@ -17,7 +17,7 @@ sections:
         image_position: right
         actions:
           - label: Solicitar servicio
-            url: /about
+            url: /contact
             style: primary
       - title: TASACIONES DE BIENES INMUEBLES
         content: >
