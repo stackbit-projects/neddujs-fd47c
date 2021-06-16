@@ -50,7 +50,7 @@ sections:
         image_position: left
         actions:
           - label: Solicitar servicio
-            url: /features
+            url: /contact
             style: secondary
       - title: VALUACIONES IFRS-NIIF
         content: >
