@@ -37,7 +37,16 @@
             }
         ],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "content": "TAM Tasaciones y Valuaciones - E.I.R.L. Todos los derechos reservados"
     },
     "domain": "https://neddujs-fd47c.netlify.app"
