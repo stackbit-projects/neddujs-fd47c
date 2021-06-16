@@ -77,7 +77,7 @@ sections:
       vehículos, equipos de cómputo, muebles enseres, herramientas y otros)
     actions:
       - label: Solicitar servicio
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
