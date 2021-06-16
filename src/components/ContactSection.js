@@ -33,7 +33,7 @@ export default class ContactSection extends React.Component {
                             <label id="consent-label" htmlFor="consent">I understand that this form is storing my submitted information so I can be contacted.</label>
                         </div>
                         <div className="form-submit">
-                            <button type="submit" className="button">Get In Touch</button>
+                            <button type="submit" className="button">Enviar mensaje</button>
                         </div>
                     </form>
                 </div>
