@@ -7,10 +7,10 @@ sections:
   - type: features_section
     features:
       - title: TASACIONES DE MAQUINARIA Y EQUIPOS
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Las tasaciones es nuestro negocio. A diario, los Peritos Tasadores
+          (ingenieros y técnicos) de TAM realizan tasaciones que son precisas,
+          fiables y exhaustivas.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
