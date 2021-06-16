@@ -83,7 +83,9 @@ sections:
     background_color: gray
 seo:
   title: TAM Tasaciones y Valuaciones
-  description: The preview of the Starter theme
+  description: >-
+    TAM es una empresa de capitales peruanos dedicada al servicio de Tasaciones,
+    Valuaciones y Consultoría en Gestión de Activos Fijos 
   extra:
     - name: 'og:type'
       value: website
