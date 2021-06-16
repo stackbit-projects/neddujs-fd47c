@@ -29,7 +29,7 @@ sections:
         image_position: left
         actions:
           - label: Solicitar servicio
-            url: /style-guide
+            url: /contact
             style: primary
       - title: VALUACIONES IFRS-NIFF
         content: >
