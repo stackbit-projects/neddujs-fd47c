@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Expertos en tasaciones y valuaciones
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
       - label: Servicios
         url: /features
