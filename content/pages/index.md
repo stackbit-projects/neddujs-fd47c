@@ -91,7 +91,9 @@ seo:
       value: TAM Tasaciones y Valuaciones
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        TAM es una empresa de capitales peruanos dedicada al servicio de
+        Tasaciones, Valuaciones y Consultoría en Gestión de Activos Fijos 
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
