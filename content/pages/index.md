@@ -108,7 +108,7 @@ seo:
         TAM es una empresa de capitales peruanos dedicada al servicio de
         Tasaciones, Valuaciones y Consultoría en Gestión de Activos Fijos 
     - name: 'twitter:image'
-      value: images/starter-preview.png
-      relativeUrl: true
+      value: 'https://i.ibb.co/LvsX24Q/Tam-Tasaciones.png'
+      relativeUrl: false
 layout: advanced
 ---
