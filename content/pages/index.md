@@ -96,9 +96,9 @@ seo:
         Tasaciones, Valuaciones y Consultoría en Gestión de Activos Fijos 
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: 'https://i.ibb.co/LvsX24Q/Tam-Tasaciones.png'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
