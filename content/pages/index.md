@@ -104,7 +104,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        TAM es una empresa de capitales peruanos dedicada al servicio de
+        Tasaciones, Valuaciones y Consultoría en Gestión de Activos Fijos 
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
